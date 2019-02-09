@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application14</string>
+    <string name="smart_speaking_system">SMART SPEAKING SYSTEM</string>
+    <string name="exit">EXIT</string>
+    <string name="practice_and_learning">PRACTICE AND LEARNING</string>
+    <string name="scan_gesture">Scan Gesture</string>
+</resources>
